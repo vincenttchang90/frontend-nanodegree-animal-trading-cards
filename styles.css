@@ -1,0 +1,21 @@
+.interesting-fact {
+    font-style: italic;
+}
+.facts {
+    font-weight: bold;
+}
+.list {
+    list-style-type: none;
+}
+#body {
+    border-style: solid;
+    padding: 1em;
+    width: 300px;
+    background-image: url('savannah.png');
+
+
+}
+.info {
+    border-style: solid;
+    padding: 1em;
+}
